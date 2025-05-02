@@ -1,0 +1,8 @@
+************* Module main
+main.py:22:0: C0301: Line too long (149/100) (line-too-long)
+main.py:40:0: C0304: Final newline missing (missing-final-newline)
+main.py:5:0: C0411: standard import "datetime.datetime" should be placed before first party imports "base_datos.BaseDatos", "usuarios.Usuarios", "tareas.Tareas", "tareas_usuarios.TareasUsuarios"  (wrong-import-order)
+
+-----------------------------------
+Your code has been rated at 9.03/10
+
